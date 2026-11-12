@@ -2,9 +2,9 @@
 
 A machine learning project and web dashboard that shows why telecom customers leave, predicts which customers are likely to leave next, and suggests how to keep them.
 
-# Live dashboard
+# Live dashboard 
 
-(paste your Streamlit link here after deploying)
+https://pu5hbpfu2emjdr8ev8ydnp.streamlit.app/ 
 
 # Problem statement
 
